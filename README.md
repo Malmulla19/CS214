@@ -1,2 +1,2 @@
 # CS214
-Data Structures course project
+This is the course project for ITCS241 (Data Structures) Course.
